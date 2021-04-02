@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "4cc7f804701014075b2a3dae808d895cfa93f49657daf053f5ebe7c6589b6ed9"
+            "sha256": "5b4595fe31e157614241beb124112fc1fd3bcd58df11f6103ea4a6efa5d4689d"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -287,11 +287,11 @@
         },
         "flake8-bugbear": {
             "hashes": [
-                "sha256:5d6ccb0c0676c738a6e066b4d50589c408dcc1c5bf1d73b464b18b73cd6c05c2",
-                "sha256:cadce434ceef96463b45a7c3000f23527c04ea4b531d16c7ac8886051f516ca0"
+                "sha256:2346c81f889955b39e4a368eb7d508de723d9de05716c287dc860a4073dc57e7",
+                "sha256:4f305dca96be62bf732a218fe6f1825472a621d3452c5b994d8f89dae21dbafa"
             ],
             "index": "pypi",
-            "version": "==21.3.2"
+            "version": "==21.4.3"
         },
         "flake8-builtins": {
             "hashes": [
@@ -334,10 +334,10 @@
         },
         "identify": {
             "hashes": [
-                "sha256:39c0b110c9d0cd2391b6c38cd0ff679ee4b4e98f8db8b06c5d9d9e502711a1e1",
-                "sha256:efbf090a619255bc31c4fbba709e2805f7d30913fd4854ad84ace52bd276e2f6"
+                "sha256:43cb1965e84cdd247e875dec6d13332ef5be355ddc16776396d98089b9053d87",
+                "sha256:c7c0f590526008911ccc5ceee6ed7b085cbc92f7b6591d0ee5913a130ad64034"
             ],
-            "version": "==2.2.0"
+            "version": "==2.2.2"
         },
         "isort": {
             "hashes": [
@@ -407,10 +407,10 @@
         },
         "pyflakes": {
             "hashes": [
-                "sha256:910208209dcea632721cb58363d0f72913d9e8cf64dc6f8ae2e02a3609aba40d",
-                "sha256:e59fd8e750e588358f1b8885e5a4751203a0516e0ee6d34811089ac294c8806f"
+                "sha256:7893783d01b8a89811dd72d7dfd4d84ff098e5eed95cfa8905b22bbffe52efc3",
+                "sha256:f5bc8ecabc05bb9d291eb5203d6810b49040f6ff446a756326104746cc00c1db"
             ],
-            "version": "==2.3.0"
+            "version": "==2.3.1"
         },
         "pyyaml": {
             "hashes": [
